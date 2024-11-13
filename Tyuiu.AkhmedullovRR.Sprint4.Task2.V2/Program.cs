@@ -14,7 +14,7 @@ namespace Tyuiu.AkhmedullovRR.Sprint4.Task2.V2
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Одномерные массивы. (генератор случайных чисел)                   *");
             Console.WriteLine("* Задание #2                                                              *");
-            Console.WriteLine("* Вариант #22                                                             *");
+            Console.WriteLine("* Вариант #2                                                             *");
             Console.WriteLine("* Выполнил: Ахмедуллов Равиль Радикович |  ИСТНб-24-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
