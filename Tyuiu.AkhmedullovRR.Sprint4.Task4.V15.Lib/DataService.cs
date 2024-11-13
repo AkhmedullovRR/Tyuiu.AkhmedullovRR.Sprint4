@@ -17,4 +17,4 @@ namespace Tyuiu.AkhmeduloovRR.Sprint4.Task4.V15.Lib
             return Res;
         }
     }
-}
+} 
