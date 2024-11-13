@@ -10,7 +10,7 @@ namespace Tyuiu.AkhmedullovRR.Sprint4.Task0.V13
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #10                                                             *");
+            Console.WriteLine("* Вариант #13                                                            *");
             Console.WriteLine("* Выполнил: Ахмедуллов Равиль Радикович | ИСТНб-24-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
