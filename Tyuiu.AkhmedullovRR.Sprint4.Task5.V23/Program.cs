@@ -14,7 +14,7 @@ namespace Tyuiu.AkhmedullovRR.Sprint4.Task5.V23
         {
             Random rnd = new Random();
             DataService ds = new DataService();
-
+             
             Console.Title = "Спринт #4 | Выполнил: Ахмедуллов Р.Р. | ИСТНБ-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
